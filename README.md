@@ -4,5 +4,5 @@
 - 🎓 I’m passionate about statistics, research, AI, and Learning new skills.
 - ⭐ Here I present (in repositories) some of my Data analytics and Data science projects. 
 - 📫 How to reach me: boazorel@gmail.com
-- 🌊 Fun fact: I love to spend time at the sea, surfing🏄 and diving🐠
+- 🌊 Fun fact: I love spending time at the sea, surfing🏄 and diving🐠
 
